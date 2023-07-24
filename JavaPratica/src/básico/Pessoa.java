@@ -1,0 +1,25 @@
+package básico;
+
+public class Pessoa {
+   
+	String nome;
+	int    idade;
+	double salario;
+	
+	Pessoa(){
+		//this.nome = nome;
+		//this.idade = idade;
+		//this.salario = salario;
+	}
+	
+	Pessoa(String nome, int idade, double salario){
+		this.nome    = nome;
+		this.idade   = idade;
+		this.salario = salario;
+	}
+	
+    //retorna salario da pessoa com BOnus
+	double SalarioBonus() {
+		return salario * 1.20;
+	}
+}

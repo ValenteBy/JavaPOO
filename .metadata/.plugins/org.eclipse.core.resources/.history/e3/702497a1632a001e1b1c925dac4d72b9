@@ -1,0 +1,22 @@
+package ListaDeExercicios_1;
+
+public class Fronteira {
+
+	public String nome_da_fronteira;
+	
+	Fronteira(String nome){
+		setNome_da_fronteira(nome);
+		
+		
+	}
+
+	public String getNome_da_fronteira() {
+		return nome_da_fronteira;
+	}
+
+	public void setNome_da_fronteira(String nome_da_fronteira) {
+		this.nome_da_fronteira = nome_da_fronteira;
+	}
+	
+	
+}

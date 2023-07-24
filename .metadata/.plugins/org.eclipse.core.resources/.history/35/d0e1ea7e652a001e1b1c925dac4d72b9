@@ -1,0 +1,22 @@
+package Slide3_EX2;
+
+import java.util.HashMap;
+
+public class Banco {
+	private String nome;
+	private int    Conta[] conta;
+	
+	
+	Banco(String nome, int tamanho){
+		this.nome    = nome;
+		this.tamanho = tamanho;
+	}
+	
+	
+    public void getNome(String nome) {
+           this.nome = nome;
+    }
+    public String setNome() {
+    	return nome;
+    }
+}
