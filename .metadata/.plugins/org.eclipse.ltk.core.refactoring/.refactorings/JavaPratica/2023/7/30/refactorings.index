@@ -3,3 +3,22 @@
 1690231543867	Encapsulate field 'Fronteiras'
 1690231789636	Delete element
 1690232590485	Delete element
+1690391720818	Delete element
+1690391946087	Encapsulate field 'codigo'
+1690391983560	Encapsulate field 'nome'
+1690391987868	Encapsulate field 'preco'
+1690391992220	Encapsulate field 'qtd'
+1690392625381	Encapsulate field 'tamanho'
+1690392936615	Encapsulate field 'item'
+1690393932455	Encapsulate field 'valordodesconto'
+1690399608823	Delete element
+1690399783996	Encapsulate field 'nome'
+1690399788469	Encapsulate field 'matricula'
+1690400648774	Encapsulate field 'codigo'
+1690400654429	Encapsulate field 'nome'
+1690400659466	Encapsulate field 'qtdmaxdealunos'
+1690400669971	Encapsulate field 'alunos'
+1690400996408	Encapsulate field 'cont'
+1690401421122	Encapsulate field 'notas'
+1690401528215	Encapsulate field 'nota1'
+1690401534574	Encapsulate field 'nota2'
